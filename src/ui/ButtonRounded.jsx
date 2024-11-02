@@ -3,7 +3,7 @@ function ButtonRounded({ onClick, children }) {
   if (onClick)
     return (
       <button
-        className="rounded-half h-8 w-8 bg-rose-400 text-xl font-bold text-stone-800"
+        className="h-8 w-8 rounded-half bg-yellow-400 text-xl font-bold text-stone-800 hover:bg-yellow-500"
         onClick={onClick}
       >
         {children}
@@ -11,7 +11,7 @@ function ButtonRounded({ onClick, children }) {
     );
 
   return (
-    <button className="rounded-half h-8 w-8 bg-rose-400 text-xl font-bold text-stone-800">
+    <button className="h-8 w-8 rounded-half bg-yellow-400 text-xl font-bold text-stone-800 hover:bg-yellow-500">
       {children}
     </button>
   );
