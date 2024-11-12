@@ -11,7 +11,8 @@
 
 ## Here is how to run it on your local computer
 
-### 1. Node js should be installed on your machine [https://nodejs.org](https://nodejs.org/en)
+### 1. Node js should be installed on your machine
+##### Don't have yet? Download here. [https://nodejs.org](https://nodejs.org/en)
 
 
 ### 2. Clone the repository
