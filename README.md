@@ -17,7 +17,6 @@
 ### 2. Clone the repository
 ```
 git clone https://github.com/Hats21/pizza-delivery.git
-
 ```
 
 ### 3. Install the necessary packages
@@ -26,11 +25,9 @@ git clone https://github.com/Hats21/pizza-delivery.git
 npm install
 or
 yarn add
-
 ```
 
 ### 4. run the development environment
-```
+``` 
 npm run dev
-
 ```
