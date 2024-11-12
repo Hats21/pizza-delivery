@@ -1,10 +1,34 @@
-# React + Vite
+## Pizza delivery app
 
-## view demo [here](https://pizadelivery.netlify.app)
+#### this app is entirely developed by [react](https://react.dev/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### the api end points were already deleloped by my one of my teammate
 
-Currently, two official plugins are available:
+#### it is completely styled by [tailwind](https://v2.tailwindcss.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Here is how to run it on your local computer
+
+### 1. Node js should be installed on your machine [https://nodejs.org](https://nodejs.org/en)
+
+
+### 2. Clone the repository
+```
+git clone https://github.com/Hats21/pizza-delivery.git
+
+```
+
+### 3. Install the necessary packages
+
+```
+npm install
+or
+yarn add
+
+```
+
+### 4. run the development environment
+```
+npm run dev
+
+```
